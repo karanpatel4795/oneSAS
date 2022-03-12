@@ -1,0 +1,1 @@
+© <?php echo date("Y"); ?> All rights reserved | Design by 018, 041, 065, 066
